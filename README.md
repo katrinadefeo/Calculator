@@ -1,5 +1,4 @@
 # Calculator
-This is my version of a calculator I learned to make here: https://www.youtube.com/watch?v=kdykQAvSPa4&t=374s
 
 The Github I learned how to make it from is here: https://github.com/Brijesh-kumar-sharma/Calculator
 
